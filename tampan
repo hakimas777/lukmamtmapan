@@ -1,10 +1,10 @@
+
+
+
+
+
 #!/bin/usr/python
-
-"""
-	Hack FACBOOK SQL
-
-"""
-
+Hack FACBOOK SQL
 import os
 import sys
 from time import sleep
